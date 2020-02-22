@@ -12,7 +12,7 @@ name: 20200222测试4
 on:
   push:
     branches: 
-      - master
+      - gzcyanide-patch-1
   # schedule:
   #   - cron: 0 20 * * *
   # release:
