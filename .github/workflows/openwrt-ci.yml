@@ -9,9 +9,9 @@
 
 name: 20200222测试3
 
-on:
-  push:
-    branches: 
+# on:
+  # push:
+    # branches: 
       - master
   # schedule:
   #   - cron: 0 20 * * *
