@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: 上载点config文件测试2
+name: openwrt-ci
 
 on:
   schedule:
